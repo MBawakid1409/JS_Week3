@@ -41,11 +41,11 @@ function lessThan10(arr) {
   });
 }
 console.log(lessThan10(arr_1))
-output [5, 7, 9]
+//output [5, 7, 9]
 console.log(lessThan10(arr_3))
-output [5]
+//output [5]
 console.log(lessThan10(arr_4))
-output []
+//output []
 
 
 // دالة تقوم باستقبال مصفوفة تتكون من أرقام وترجع مصفوفة جديدة تتكون من كل عنصر * 5
